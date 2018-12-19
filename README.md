@@ -7,4 +7,4 @@ Python 2.7  <br>
 Tensorflow 1.12. *  <br>
 Cuda  9.0 <br>
 
-Download the <a href="https://drive.google.com/file/d/1fsIlkeKUaXr3niYUeEKNIxmWZcUEIPeA/view?usp=sharing">Ckpt</a>.
+Download the <a href="https://drive.google.com/file/d/1fsIlkeKUaXr3niYUeEKNIxmWZcUEIPeA/view?usp=sharing">Ckpt</a> or use the FCRN ckpt.
