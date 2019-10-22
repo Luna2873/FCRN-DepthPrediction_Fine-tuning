@@ -1,5 +1,4 @@
 # Transfer learning and fine-tuning the FCRN-Depth Prediction
-=====================
 Computer Vision Proj
 =====================
 Dataset: Megadepth http://www.cs.cornell.edu/projects/megadepth/<br>
